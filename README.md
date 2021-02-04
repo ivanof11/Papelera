@@ -7,3 +7,5 @@ Su utilización será:
 	borra fichero #elimina el fichero llamado 'fichero'
 	borra -r fichero #restaura (si existe) el fichero llamado 'fichero'
 	borra fichero -r #ídem que el anterior
+
+Gestionaremos el flujo de trabajo y los requisitos mediante Trello
