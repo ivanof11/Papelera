@@ -9,3 +9,7 @@ Su utilización será:
 	borra fichero -r #ídem que el anterior
 
 Gestionaremos el flujo de trabajo y los requisitos mediante Trello
+
+El tablero de Trello se encuentra aquí:
+
+https://trello.com/b/TSx5DLBC/script-papelera-de-reciclaje
